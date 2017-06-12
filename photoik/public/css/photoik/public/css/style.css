@@ -1,0 +1,58 @@
+
+/*===============================
+        global styles
+================================*/
+*
+{
+    font-family: myfont;
+
+    box-sizing: border-box;
+}
+
+body
+{
+    position: relative;
+
+    background: #e2e2e2;
+}
+/* font family */
+
+@font-face
+{
+    font-family: myfont;
+
+    src: url(../fonts/Titillium-Regular.otf);
+}
+@font-face
+{
+    font-family: mylightfont;
+
+    src: url(../fonts/Titillium-Light.otf);
+}
+@font-face
+{
+    font-family: myboldfont;
+
+    src: url(../fonts/Titillium-Semibold.otf);
+}
+@font-face
+{
+    font-family: mythinfont;
+
+    src: url(../fonts/Titillium-Thin.otf);
+}
+@font-face
+{
+    font-family: fontawesome;
+
+    src: url(../fonts/FontAwesome.otf);
+}
+
+/* styling */
+
+
+
+/*====================================
+            element styles
+=====================================*/
+
